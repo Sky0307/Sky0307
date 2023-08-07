@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jet Xuen(Sky)</h1>
-<h3 align="center">Penultimate Year CSD student from Singapore University of Technology and Design(SUTD)</h3>
+<h3 align="center">Currently a Fulltime Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sky0307&label=Profile%20views&color=0e75b6&style=flat" alt="sky0307" /> </p>
 
