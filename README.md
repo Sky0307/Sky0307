@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sky0307" alt="sky0307" /></a> </p>
 
-- 🔭 I’m currently working on [my final year project](https://concoction.bigbrain.link/)
+- 🔭 I’m currently working on as a full stack software engineer
 
-- 🌱 I’m currently learning **Elixir(Phoenix)**
+- 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sky0307](https://github.com/Sky0307)
 
