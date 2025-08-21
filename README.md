@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jet Xuen(Sky)</h1>
-<h3 align="center">Currently a Fulltime Software Engineer</h3>
+<h3 align="center">Currently a Fulltime Software Engineer focusing on Springboot Java Application and Angular Frontend Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sky0307&label=Profile%20views&color=0e75b6&style=flat" alt="sky0307" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on as a full stack software engineer
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **AI Agentic Solution Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sky0307](https://github.com/Sky0307)
 
